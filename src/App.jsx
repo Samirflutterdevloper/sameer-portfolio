@@ -65,9 +65,14 @@ export default function App() {
       </section>
       <section className="mb-10">
         <h2 className="text-2xl font-semibold mb-4">Resume</h2>
-        <a href="/Sameer_Hariyani_Resume.pdf" download className="inline-block bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700 transition">
-          Download Resume
-        </a>
+      <a
+  href="/Sameer_Hariyani_Resume.pdf"
+  download
+  className="inline-block bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700 transition"
+>
+  Download Resume
+</a>
+
       </section>
       <section>
         <h2 className="text-2xl font-semibold mb-4">Contact</h2>
